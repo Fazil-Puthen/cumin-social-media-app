@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "736438020733",
+    "project_id": "shopkart-6276b",
+    "storage_bucket": "shopkart-6276b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736438020733:android:6df575a11d1c4ee4721f14",
+        "android_client_info": {
+          "package_name": "com.cumin.social"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxVBm4G3XwQQW8IMF_QwdVaQKa2TUJC8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736438020733:android:c67e0adc9ea08a8a721f14",
+        "android_client_info": {
+          "package_name": "com.example.shopcart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxVBm4G3XwQQW8IMF_QwdVaQKa2TUJC8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
